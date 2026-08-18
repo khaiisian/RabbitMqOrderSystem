@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RabbitMqOrderSystem.Api/RabbitMqOrderSystem.Api.csproj" />
+  <Project Path="RabbitMqOrderSystem.OrderWorker/RabbitMqOrderSystem.OrderWorker.csproj" />
+</Solution>
